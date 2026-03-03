@@ -1,0 +1,37 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "SoftwareSourceCode",
+    "author": [
+        {
+            "@id": "https://github.com/antonRivAl",
+            "@type": "Person"
+        }
+    ],
+    "codeRepository": "https://github.com/antonRivAl/Seminar3",
+    "dateCreated": "2026-03-03",
+    "dateModified": "2026-03-03",
+    "datePublished": "2026-03-03",
+    "downloadUrl": "https://github.com/antonRivAl/Seminar3/releases",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "name": "Seminar3",
+    "referencePublication": [
+        {
+            "author": [
+                {
+                    "familyName": "Riveiro Alonso",
+                    "givenName": "Antón",
+                    "@type": "Person"
+                }
+            ],
+            "datePublished": "2026",
+            "identifier": "10.5281/zenodo.18854990",
+            "name": "If you use this software, please cite it as below.",
+            "url": "https://doi.org/10.5281/zenodo.18854990",
+            "@type": "ScholarlyArticle"
+        }
+    ],
+    "releaseNotes": "Initial Project",
+    "version": "1.0.0",
+    "issueTracker": "https://github.com/antonRivAl/Seminar3/issues",
+    "@type": "SoftwareSourceCode"
+}
