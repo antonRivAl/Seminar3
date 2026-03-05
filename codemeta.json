@@ -9,7 +9,7 @@
     ],
     "codeRepository": "https://github.com/antonRivAl/Seminar3",
     "dateCreated": "2026-03-03",
-    "dateModified": "2026-03-03",
+    "dateModified": "2026-03-05",
     "datePublished": "2026-03-03",
     "downloadUrl": "https://github.com/antonRivAl/Seminar3/releases",
     "license": "https://spdx.org/licenses/Apache-2.0",
@@ -30,8 +30,8 @@
             "@type": "ScholarlyArticle"
         }
     ],
-    "releaseNotes": "Initial Project",
-    "version": "1.0.0",
+    "releaseNotes": "Final Project",
+    "version": "1.0.1",
     "issueTracker": "https://github.com/antonRivAl/Seminar3/issues",
     "@type": "SoftwareSourceCode"
 }
